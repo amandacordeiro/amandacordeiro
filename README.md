@@ -2,8 +2,8 @@
 
  <img align="center" src="https://64.media.tumblr.com/324ecd4ef078020a355ddb8696e5d3d5/30907ba20864e25b-d7/s640x960/9a1a80663c95bb8f72ce73f8f6ca3ef08ab0e66c.gifv"/>
 <p align="center">
-    <a href="https://github.com/amandacord">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amanda streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amandacord&theme=dracula&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/amandacordeiro">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amanda streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amandacordeiro&theme=dracula&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
