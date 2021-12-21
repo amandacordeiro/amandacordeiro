@@ -1,4 +1,4 @@
-<h2 align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm a database student and I share my projects here. </h2>
+<h2 align="center"> Hey!! I'm a database student and I share my projects here. </h2>
 
  <img align="center" src="https://64.media.tumblr.com/324ecd4ef078020a355ddb8696e5d3d5/30907ba20864e25b-d7/s640x960/9a1a80663c95bb8f72ce73f8f6ca3ef08ab0e66c.gifv"/>
 <p align="center">
