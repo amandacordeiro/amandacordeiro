@@ -10,9 +10,6 @@
   <img align="center" alt="A-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="A-PYCHARM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="A-JUPYTER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-
-
- <img align="right" alt="AA-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/898018194541920366/921191295244984320/ezgif.com-gif-maker_2.gif">
   
 </div>
 
