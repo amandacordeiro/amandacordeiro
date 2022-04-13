@@ -1,5 +1,11 @@
-<h3> Prazer, Amanda! 👋🏻 </h3>
-👩‍🎓 Graduanda em Tecnologia em Banco de Dados pela PUCMG.
+###  Prazer, Amanda!  ![]()
+
+![](https://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini068.gif) Graduanda em Tecnologia em Banco de Dados pela PUCMG ![](https://static.tumblr.com/rltvkjt/q0hlmr3ze/mouse-1.gif)
+
+![](https://64.media.tumblr.com/tumblr_ll7x3bnod91qi6qow.gif) Estou estudando para atuar como Engenheira de Dados ![](https://static.tumblr.com/rltvkjt/q0hlmr3ze/mouse-1.gif)
+
+![](https://static.tumblr.com/rltvkjt/kI1lmr3nc/dialogo_heart.gif) Tenho interesse em aprender sobre Inteligência Artificial e BlockChain ![](https://64.media.tumblr.com/1420b9b4e5e40fc5dd104f8b7e025233/tumblr_inline_p7j3hqNDpE1rhwzwl_75sq.gifv)
+
 
 ##
 <div align="center">
