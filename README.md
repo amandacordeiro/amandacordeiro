@@ -6,7 +6,7 @@
 
 ![](https://64.media.tumblr.com/0d34f282bff63b931064c51d4581c9c3/34d6f0d38cc6f7df-53/s75x75_c1/faa2fc41b6b7a40538a955d11c41302812666c47.gifv) Atualmente estagiária de Metodologia Agile SCRUM ![](https://static.tumblr.com/rltvkjt/q0hlmr3ze/mouse-1.gif)
 
-[](https://64.media.tumblr.com/208b081268d7aae01747366db8cb2b4f/34d6f0d38cc6f7df-5c/s75x75_c1/8d420f75b420f9234af2dd0ca8208305caee3241.gifv) Sou entusiasta de tecnologia. Tenho os estudos como um hobby.
+![](https://64.media.tumblr.com/208b081268d7aae01747366db8cb2b4f/34d6f0d38cc6f7df-5c/s75x75_c1/8d420f75b420f9234af2dd0ca8208305caee3241.gifv) Sou entusiasta de tecnologia. Tenho os estudos como um hobby.
 
 
 ##
