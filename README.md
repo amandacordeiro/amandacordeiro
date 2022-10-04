@@ -1,6 +1,6 @@
 ###  Prazer, Amanda!  ![]()
 
-![](https://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini068.gif) Graduando Tecnologia em Banco de Dados @ PUCMG
+![](https://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini068.gif) Tenho 20 anos e estou graduando Tecnologia em Banco de Dados @ PUCMG
 
 ![](https://64.media.tumblr.com/5889273e5aeca7e9e434ac9d1e38866d/34d6f0d38cc6f7df-61/s75x75_c1/0ebc73bca5302492f16d5a6e7d626e9be7c54540.gifv) Focando na formação de Engenharia de Dados
 
