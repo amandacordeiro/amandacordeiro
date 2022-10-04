@@ -8,7 +8,11 @@
 
 ![](https://64.media.tumblr.com/208b081268d7aae01747366db8cb2b4f/34d6f0d38cc6f7df-5c/s75x75_c1/8d420f75b420f9234af2dd0ca8208305caee3241.gifv) Entusiasta de tecnologia
 
-
+<div align="center">
+  <a href="https://github.com/amandacordeiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandacordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandacordeiro&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ##
 <h3> Languages and Tools: </h3>
