@@ -4,7 +4,7 @@
 
 ![](https://64.media.tumblr.com/5889273e5aeca7e9e434ac9d1e38866d/34d6f0d38cc6f7df-61/s75x75_c1/0ebc73bca5302492f16d5a6e7d626e9be7c54540.gifv) Focando na formação de Engenharia de Dados
 
-![](https://64.media.tumblr.com/0d34f282bff63b931064c51d4581c9c3/34d6f0d38cc6f7df-53/s75x75_c1/faa2fc41b6b7a40538a955d11c41302812666c47.gifv) Estagiária de Metodologia Agile Scrum e Kanban
+![](https://64.media.tumblr.com/0d34f282bff63b931064c51d4581c9c3/34d6f0d38cc6f7df-53/s75x75_c1/faa2fc41b6b7a40538a955d11c41302812666c47.gifv) Estagiária de Metodologia Agile (Scrum e Kanban)
 
 ![](https://64.media.tumblr.com/208b081268d7aae01747366db8cb2b4f/34d6f0d38cc6f7df-5c/s75x75_c1/8d420f75b420f9234af2dd0ca8208305caee3241.gifv) Entusiasta de tecnologia
 
