@@ -8,7 +8,7 @@
 
 ![](https://64.media.tumblr.com/208b081268d7aae01747366db8cb2b4f/34d6f0d38cc6f7df-5c/s75x75_c1/8d420f75b420f9234af2dd0ca8208305caee3241.gifv) Entusiasta de tecnologia
 
-![](https://64.media.tumblr.com/9a257443a124a75239c2ad6795fafa74/tumblr_inline_mjpod5ucoG1qz4rgp.gif) Gosto de animes, novels, vkei e vez ou outra uns joguinhos online
+![](https://64.media.tumblr.com/9a257443a124a75239c2ad6795fafa74/tumblr_inline_mjpod5ucoG1qz4rgp.gif) Gosto de animes, novels, vkei e manhwas ♡(>ᴗ•)
 
 <div align="center">
   <a href="https://github.com/amandacordeiro">
