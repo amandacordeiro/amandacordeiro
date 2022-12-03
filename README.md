@@ -3,9 +3,7 @@
 ![](https://i11.photobucket.com/albums/a168/evelynregly/minigifs/mini068.gif) Tenho 21 anos e estou graduando Tecnologia em Banco de Dados @ PUCMG
 
 
-![](https://64.media.tumblr.com/0d34f282bff63b931064c51d4581c9c3/34d6f0d38cc6f7df-53/s75x75_c1/faa2fc41b6b7a40538a955d11c41302812666c47.gifv) Estagiária Agile (Scrum e Kanban)
-
-![](https://64.media.tumblr.com/9a257443a124a75239c2ad6795fafa74/tumblr_inline_mjpod5ucoG1qz4rgp.gif) Gosto de animes, novels, vkei e manhwas ♡(>ᴗ•)
+![](https://64.media.tumblr.com/0d34f282bff63b931064c51d4581c9c3/34d6f0d38cc6f7df-53/s75x75_c1/faa2fc41b6b7a40538a955d11c41302812666c47.gifv) Estagiária Agilista (Agile Scrum e Kanban)
 
 <div align="center">
   <a href="https://github.com/amandacordeiro">
