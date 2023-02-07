@@ -5,9 +5,6 @@
 
 :woman_technologist:	Estagiária Agilista (Agile Scrum e Kanban)
 
-:thought_balloon:	Passo a maior parte do tempo focando no meu trabalho e interesses pessoais
-
-
 
 <div align="center">
   <a href="https://github.com/amandacordeiro">
