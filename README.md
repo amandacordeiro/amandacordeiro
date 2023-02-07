@@ -5,7 +5,7 @@
 
 :woman_technologist:	Estagiária Agilista (Agile Scrum e Kanban)
 
-
+:dizzy:	Passo a maior parte do tempo focando no meu trabalho e interesses pessoais
 
 
 
