@@ -5,7 +5,9 @@
 
 :woman_technologist:	Estagiária Agilista (Agile Scrum e Kanban)
 
-:seedling: ISFP 4w3
+
+
+
 
 <div align="center">
   <a href="https://github.com/amandacordeiro">
