@@ -5,7 +5,7 @@
 
 :woman_technologist:	Estagiária Agilista (Agile Scrum e Kanban)
 
-:thought_balloon:	Passo a maior parte do tempo focando no meu progresso profissional e interesses pessoais
+:thought_balloon:	Passo a maior parte do tempo focando no meu crescimento pessoal e interesses pessoais
 
 
 
