@@ -3,7 +3,7 @@
 :mortar_board: Tenho 21 anos e estou graduando Tecnologia em Banco de Dados @ PUCMG
 
 
-:woman_technologist:	Estagiária Agilista (Agile Scrum e Kanban)
+:woman_technologist:	Estagiária Agilista (Agile Scrum | Kanban)
 
 
 <div align="center">
