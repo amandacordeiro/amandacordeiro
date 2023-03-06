@@ -3,7 +3,7 @@
 :mortar_board: Estudante de engenharia de dados na PUCMG
 
 
-:woman_technologist:	Estagiária Agilista (Agile Scrum | Kanban)
+:woman_technologist:	Estagiária agile (Agile Scrum - Kanban)
 
 
 <div align="center">
