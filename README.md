@@ -1,6 +1,6 @@
 ###  Hello []()
 
-:mortar_board: Tenho 21 anos e estou graduando Tecnologia em Banco de Dados @ PUCMG
+:mortar_board: Estudante de dados pela @ PUCMG
 
 
 :woman_technologist:	Estagiária Agilista (Agile Scrum | Kanban)
