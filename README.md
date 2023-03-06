@@ -1,6 +1,6 @@
 ###  Hello []()
 
-:mortar_board: Estudante de dados pela @ PUCMG
+:mortar_board: Estudante de dados pela PUCMG
 
 
 :woman_technologist:	Estagiária Agilista (Agile Scrum | Kanban)
