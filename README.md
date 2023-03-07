@@ -1,6 +1,6 @@
 ###  Hello []()
 
-:mortar_board: Estudante de engenharia de dados na Pontifícia Universidade Católica 
+:mortar_board: Estudante de Engenharia de Dados na Pontifícia Universidade Católica 
 
 
 :woman_technologist:	Estagiária agile (Agile Scrum - Kanban)
