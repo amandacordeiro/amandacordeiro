@@ -3,7 +3,7 @@
 :mortar_board: Estudante de Engenharia de Dados na Pontifícia Universidade Católica 
 
 
-:woman_technologist:	Estagiária agile (scrum)
+:woman_technologist:	Estagiária Agile (Scrum)
 
 
 <div align="center">
