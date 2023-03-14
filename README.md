@@ -1,30 +1,39 @@
-###  Hello []()
+# <samp>Hello World</samp> 👋
 
-:mortar_board: Estudante de Engenharia de Dados na Pontifícia Universidade Católica 
+<p align="center">
+    <samp>Estudante de <strong>engenharia de dados</strong> na <strong>PUC-MG</strong> e atualmente <strong>estagiária agile (scrum)</strong></samp>
+</p>
 
+<br>
 
-:woman_technologist:	Estagiária Agile (Scrum)
+<p align="center">
+    <samp>Algumas linguagens e tecnologias nas quais tenho me concentrado ultimamente:</samp>
+</p>
 
-##
-<div align="center">  
-  
-  ![This is an image](https://i.redd.it/2jkb3dogt6k21.gif)
-  
+<div align="center">
+    <samp>
+        <strong>
+            &bull; PYTHON &bull; C# &bull; MYSQL &bull; MONGODB
+            &bull; PANDAS &bull; SQL &bull; NOSQL &bull; NUMPY &bull; 
+            SCRUM &bull;
+        </strong>
+        <br>
+    </samp>
+    <br>
+    <img src="https://i.redd.it/2jkb3dogt6k21.gif" alt="ASCII Anime">
 </div>
 
-  
-<h3> Languages and Tools: </h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="A-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="A-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="A-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="A-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="center" alt="A-PYCHARM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-  <img align="center" alt="A-JUPYTER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="A-JUPYTER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />      
+<br>
+
+<!--
+<a href="#"><img height="100px" src="https://github-readme-stats.vercel.app/api?username=biewdev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,fff44a,6accff,43bfff,5c1cff&theme=graywhite"/><img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biewdev&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,5c1cff,43bfff,6accff,fff44a&theme=graywhite"/></a>
+-->
+<br>
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-Gmail-darkorange?style=flat-square&logo=gmail&logoColor=white)](mailto:amandadatastudies@gmail.com)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=amandacordeiro)
+
 </div>
 
-##
-
-<div>
-  <a href= "https://www.linkedin.com/in/amandacorrdeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
