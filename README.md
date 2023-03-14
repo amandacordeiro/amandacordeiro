@@ -8,7 +8,7 @@
 ##
 <div align="center">  
   
-  ![This is an image](https://i.pinimg.com/originals/6f/c5/c9/6fc5c9f70d90cedda073cd3161ecc17e.png)
+  ![This is an image](https://i.redd.it/2jkb3dogt6k21.gif)
   
 </div>
 
