@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-Gmail-blueviolet?style=flat-square&logo=gmail&logoColor=white)](mailto:amandadatastudies@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-E1BCDD?style=flat-square&logo=gmail&logoColor=black)](mailto:amandadatastudies@gmail.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=amandacordeiro)
 
 </div>
