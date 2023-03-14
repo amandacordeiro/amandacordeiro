@@ -1,4 +1,3 @@
-# <samp>Hello World</samp> 👋
 
 <p align="center">
     <samp>Estudante de <strong>engenharia de dados</strong> na <strong>PUC-MG</strong> e atualmente <strong>estagiária agile (scrum)</strong></samp>
