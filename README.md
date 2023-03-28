@@ -15,9 +15,10 @@
 <div align="center">
     <samp>
         <strong>
-            &bull; PYTHON FOR DATA ANALYTICS &bull; C# &bull; MYSQL &bull; MONGODB
-            &bull; SQL &bull; NOSQL &bull; NUMPY &bull; 
-            SCRUM &bull; CLOUD COMPUTING &bull;
+            &bull; PYTHON FOR DATA ANALYTICS &bull; MYSQL &bull; 
+            MONGODB &bull; CLOUD COMPUTING &bull;
+            SQL &bull; NOSQL &bull; NUMPY &bull; 
+            SCRUM &bull; C# &bull;
         </strong>
         <br>
     </samp>
