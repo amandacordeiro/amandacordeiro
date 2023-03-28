@@ -17,7 +17,7 @@
         <strong>
             &bull; PYTHON &bull; C# &bull; MYSQL &bull; MONGODB
             &bull; PANDAS &bull; SQL &bull; NOSQL &bull; NUMPY &bull; 
-            SCRUM &bull;
+            SCRUM &bull; CLOUD COMPUTING &bull;
         </strong>
         <br>
     </samp>
