@@ -15,8 +15,8 @@
 <div align="center">
     <samp>
         <strong>
-            &bull; PYTHON &bull; C# &bull; MYSQL &bull; MONGODB
-            &bull; PANDAS &bull; SQL &bull; NOSQL &bull; NUMPY &bull; 
+            &bull; PYTHON FOR DATA ANALYTICS &bull; C# &bull; MYSQL &bull; MONGODB
+            &bull; SQL &bull; NOSQL &bull; NUMPY &bull; 
             SCRUM &bull; CLOUD COMPUTING &bull;
         </strong>
         <br>
