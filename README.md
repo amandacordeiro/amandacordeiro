@@ -35,7 +35,7 @@
 
 
 <p align="center">
-    <samp><strong>Google Developer Profile: https://g.dev/amandacordeiro </strong></samp>
+    <samp><strong>Certificações do GCP: https://bit.ly/3MrjUm2 </strong></samp>
 </p>
 
 <div align="center">
