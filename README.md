@@ -33,6 +33,11 @@
 -->
 <br>
 
+
+<p align="center">
+    <samp><strong>Google Developer Profile: https://g.dev/amandacordeiro </strong></samp>
+</p>
+
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/-Gmail-E1BCDD?style=flat-square&logo=gmail&logoColor=black)](mailto:amandadatastudies@gmail.com)
