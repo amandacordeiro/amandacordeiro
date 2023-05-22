@@ -35,7 +35,7 @@
 
 
 <p align="center">
-    <samp><strong>Certificações do GCP: https://bit.ly/3MrjUm2 </strong></samp>
+    <samp><strong>Certificações: https://m1917.carrd.co/ </strong></samp>
 </p>
 
 <div align="center">
