@@ -33,15 +33,5 @@
 -->
 <br>
 
-
-<p align="center">
-    <samp><strong>Certificações: https://m1917.carrd.co/ </strong></samp>
-</p>
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/-Gmail-E1BCDD?style=flat-square&logo=gmail&logoColor=black)](mailto:amandadatastudies@gmail.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=amandacordeiro)
-
 </div>
 
