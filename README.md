@@ -16,9 +16,9 @@
     <samp>
         <strong>
             &bull; PYTHON FOR DATA ANALYTICS &bull; MYSQL &bull; 
-            MONGODB &bull; CLOUD COMPUTING &bull;
-            SQL &bull; NOSQL &bull; NUMPY &bull; 
-            SCRUM &bull; C# &bull;
+            MONGODB &bull; CLOUD COMPUTING &bull; NOSQL &bull;
+            SCRUM &bull; C# &bull; POSTGRESQL &bull; 
+            API's &bull; LENS &bull;
         </strong>
         <br>
     </samp>
