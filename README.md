@@ -15,8 +15,8 @@
 <div align="center">
     <samp>
         <strong>
-            &bull; PYTHON FOR DATA ANALYTICS &bull; MYSQL &bull; 
-            MONGODB &bull; CLOUD COMPUTING &bull; NOSQL &bull;
+            &bull; PYTHON &bull; MYSQL &bull; 
+            MONGODB &bull; CLOUD COMPUTING &bull; LINUX &bull;
             SCRUM &bull; C# &bull; POSTGRESQL &bull; 
             API's &bull; LENS &bull;
         </strong>
