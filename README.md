@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-    <samp>Estudante de <strong>engenharia de dados</strong> na <strong>PUC-MG</strong> e atualmente <strong>estagiária agile de tecnologia</strong></samp>
+  <samp> <strong>data engineering </strong> </samp> <samp>student at <strong>PUC-MG</strong> and currently an <strong>agile technology intern</strong></samp>
 </p>
 
 <br>
 
 <p align="center">
-    <samp>Algumas linguagens e tecnologias nas quais tenho me concentrado ultimamente:</samp>
+    <samp>Some languages and technologies I've been focusing on lately:</samp>
 </p>
 
 <div align="center">
