@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E1BCDD&repeat=false&width=435&lines=Hello%2C+fail+world" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7B1F7FF&repeat=false&width=435&lines=Hello%2C+fail+world" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
             SCRUM &bull; C# &bull; POSTGRESQL &bull; 
             API's &bull; LENS &bull;
         </strong>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=100&color=E1BCDD&width=435&lines=%22The+memories+remain;The+years+washing+away;We+question+the+outcome%2C+the+fairness;We+wonder+what+will+happen+to+us;We+struggle+to+let+go+in+anger;We+ask+aloud.%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=100&color=A7B1F7FF&width=435&lines=%22The+memories+remain;The+years+washing+away;We+question+the+outcome%2C+the+fairness;We+wonder+what+will+happen+to+us;We+struggle+to+let+go+in+anger;We+ask+aloud.%22" alt="Typing SVG" /></a>
 </div>
 
 <br>
