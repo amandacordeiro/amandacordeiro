@@ -15,9 +15,9 @@
 <div align="center">
     <samp>
         <strong>
-            &bull; PYTHON &bull; MYSQL &bull; 
-            MONGODB &bull; CLOUD COMPUTING &bull; LINUX &bull;
-            SCRUM &bull; C# &bull; POSTGRESQL &bull; INFRASTRUCTURE &bull;
+            &bull; PYTHON &bull;
+            DATABASE &bull; CLOUD COMPUTING &bull; LINUX &bull;
+            SCRUM &bull; C# &bull; INFRASTRUCTURE &bull;
         </strong>
 </div>
       
