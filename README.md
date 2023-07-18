@@ -17,8 +17,7 @@
         <strong>
             &bull; PYTHON &bull; MYSQL &bull; 
             MONGODB &bull; CLOUD COMPUTING &bull; LINUX &bull;
-            SCRUM &bull; C# &bull; POSTGRESQL &bull; 
-            API's &bull; LENS &bull;
+            SCRUM &bull; C# &bull; POSTGRESQL &bull; INFRASTRUCTURE &bull;
         </strong>
 </div>
       
