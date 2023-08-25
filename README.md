@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <samp> <strong>data engineering </strong> </samp> <samp>student at <strong>PUC-MG</strong> and currently an <strong>agile technology intern</strong></samp>
+  <samp> <strong>DBA/Data Analyst training & DevOps student.</strong> </samp> 
 </p>
 
 <br>
