@@ -1,18 +1,17 @@
-<p align="center">
+<p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BF8AF7FF&repeat=false&width=435&lines=Hello%2C+fail+world" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
+<p>
   <samp> <strong>DBA/Data Analyst training & DevOps student.</strong> </samp> 
 </p>
 
 <br>
 
-<p align="center">
+<p>
     <samp>Some languages and technologies I've been focusing on lately:</samp>
 </p>
-
-<div align="center">
+>
     <samp>
         <strong>
             &bull; PYTHON &bull;
