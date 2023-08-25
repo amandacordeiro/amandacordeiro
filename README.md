@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <samp> <strong>DBA/Data Analyst training & DevOps student.</strong> </samp> 
+  <samp> <strong>Administradora de Banco de Dados - Engenheira de Dados em formação e, nas horas vagas, estudante de DevOps por pura curiosidade e diversão :)</strong> </samp> 
 </p>
 
 <br>
 
 <p align="center">
-    <samp>Some languages and technologies I've been focusing on lately:</samp>
+    <samp>Algumas linguagens e tecnologias nas quais tenho me concentrado ultimamente:</samp>
 </p>
 
 <div align="center">
