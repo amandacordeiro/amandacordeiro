@@ -16,7 +16,7 @@
     <samp>
         <strong>
             &bull; PYTHON &bull;
-            DATABASE &bull; CLOUD COMPUTING &bull; LINUX &bull;
+            SGBD &bull; CLOUD COMPUTING &bull; LINUX &bull;
             SCRUM &bull; C# &bull; INFRASTRUCTURE &bull;
         </strong>
 </div>
