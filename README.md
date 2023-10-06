@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <samp> <strong>Administradora de Banco de Dados - Engenheira de Dados em formação e, nas horas vagas, estudante de DevOps por pura curiosidade e diversão :)</strong> </samp> 
+  <samp> <strong>Administradora de Banco de Dados & Engenheira de Dados. Nas horas vagas, estudante de DevOps por pura curiosidade e diversão :)</strong> </samp> 
 </p>
 
 <br>
