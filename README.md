@@ -4,6 +4,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=amandacordeiro&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
 
-<p> Engenheira de Dados @ Fitbank 450 <br/> Aluna @ Google Cloud Academy <br/> Graduando Banco de Dados @ PUC Minas Gerais</p>
+<p> Engenheira de Dados <br/> Aluna @ Google Cloud Academy <br/> Graduando Banco de Dados @ PUC Minas Gerais</p>
 
 <hr>
