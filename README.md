@@ -4,4 +4,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=intj - her&color=000000&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
 
-<p>Student @ Google Cloud Academy <br/> Undergraduate in Database @ PUC Minas EAD <br/> <align="center"><a href="https://soundcloud.com/user-826213466/visual-prison-op-zankoku-2">‧₊˚🖇️✩ ₊˚🎧⊹♡</a></p></p>
+<p>Student @ Google Cloud Academy <br/> Undergraduate in Database @ PUC Minas EAD <br/> <align="center"><a href="https://soundcloud.com/user-826213466/visual-prison-op-zankoku-2" target="_blank">‧₊˚🖇️✩ ₊˚🎧⊹♡</a>
+</p>
+
