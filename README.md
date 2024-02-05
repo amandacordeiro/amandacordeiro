@@ -2,7 +2,7 @@
 
 ### <strong>Data Engineer</strong>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=amandacordeiro&color=000000&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
+<img src="https://img.shields.io/static/v1?label=Overview&message=intj - her&color=000000&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
 
 <p>Student @ Google Cloud Academy <br/> Undergraduate in Database @ PUC Minas EAD</p>
 
