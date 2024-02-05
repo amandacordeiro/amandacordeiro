@@ -4,6 +4,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=amandacordeiro&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
 
-<p>Student @ Google Cloud Academy <br/> Undergraduate in Database @ PUC Minas Gerais</p>
+<p>Student @ Google Cloud Academy <br/> Undergraduate in Database @ PUC Minas EAD</p>
 
 <hr>
