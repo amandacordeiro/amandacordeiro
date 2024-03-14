@@ -3,5 +3,6 @@
 ### <strong>Data Engineer </strong>
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=intj - 22 - her&color=000000&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
+<p>Hello! You can call me Amanda or yuyu (intimately). I'm a student and junior data engineer, but I can also be a walking database (I'll keep your confidential files temporarily) 𖦹 ´ ᯅ ` 𖦹</p>
 
 <p>Student @ Google Cloud Academy <br/> Undergraduate and Research in Database @ PUC Minas <br/> 
