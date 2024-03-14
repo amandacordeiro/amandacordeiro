@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=intj - 22 - her&color=000000&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
 
-<p>Student @ Google Cloud Academy <br/> Undergraduate in Database @ PUC Minas EAD <br/> 
+<p>Student @ Google Cloud Academy <br/> Undergraduate and Research in Database @ PUC Minas <br/> 
