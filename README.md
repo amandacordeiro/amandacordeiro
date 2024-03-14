@@ -5,4 +5,4 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=intj - 22 - her&color=000000&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
 <p>:blossom: Hello Universe! You can call me Amanda or yuyu (intimately). I'm a student and junior data engineer, but I can also be a walking database (I'll keep your confidential secrets temporarily) 𖦹 ´ ᯅ ` 𖦹</p>
 
-<p>:rabbit2: Student @ Google Cloud Academy | Undergraduate and Research in Database @ PUC Minas </p>
+<p>:rabbit2: Undergraduate and Research in Database @ PUC Minas </p>
